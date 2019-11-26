@@ -1,0 +1,7 @@
+server:
+  port: 9001
+
+elasticsearch:
+  clustername: cluster
+  host: localhost
+  port: 9300
